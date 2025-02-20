@@ -3,7 +3,7 @@ import os
 import webbrowser
 
 def launch():
-    target = "https://www.instagram.com"  # Replace this with actual application path or URL
+    target = "https://twitter.com"  # Replace this with actual application path or URL
     
     if target.startswith("https"):
         webbrowser.open(target)  # Opens a website
