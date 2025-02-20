@@ -30,7 +30,7 @@ import app_23
 pygame.init()
 
 # Constants
-WIDTH, HEIGHT = 800, 600
+WIDTH, HEIGHT = 1512, 900
 BG_COLOR = (0, 0, 0)
 CIRCLE_COLOR = (20, 20, 40)
 OUTLINE_COLOR = (173, 216, 230)
